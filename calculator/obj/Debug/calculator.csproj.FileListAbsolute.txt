@@ -1,0 +1,10 @@
+E:\prog\vs2015\c#\calculator\calculator\bin\Debug\calculator.exe.config
+E:\prog\vs2015\c#\calculator\calculator\bin\Debug\calculator.exe
+E:\prog\vs2015\c#\calculator\calculator\bin\Debug\calculator.pdb
+E:\prog\vs2015\c#\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+E:\prog\vs2015\c#\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+E:\prog\vs2015\c#\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+E:\prog\vs2015\c#\calculator\calculator\obj\Debug\calculator.exe
+E:\prog\vs2015\c#\calculator\calculator\obj\Debug\calculator.pdb
+E:\prog\vs2015\c#\calculator\calculator\obj\Debug\calculator.ExzoForm.resources
+E:\prog\vs2015\c#\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
